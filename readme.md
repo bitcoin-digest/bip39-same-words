@@ -1,3 +1,4 @@
+- 12 words:
 - action action action action action action action action action action action action
 - agent agent agent agent agent agent agent agent agent agent agent agent
 - aim aim aim aim aim aim aim aim aim aim aim aim
@@ -128,6 +129,7 @@
 - word word word word word word word word word word word word
 - world world world world world world world world world world world world
 - yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow
+- 24 words:
 - bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon
 - flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag flag
 - gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas gas
