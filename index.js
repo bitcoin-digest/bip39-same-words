@@ -8,7 +8,7 @@ for (let i = 0; i < wordlistLength; i++) {
   const repeatedWord = Array(12).fill(word).join(" ");
 
   if (bip39.validateMnemonic(repeatedWord)) {
-    console.log(`${repeatedWord}`);
+    console.log(`- ${repeatedWord}`);
   }
 }
 
@@ -17,6 +17,6 @@ for (let i = 0; i < wordlistLength; i++) {
   const repeatedWord = Array(24).fill(word).join(" ");
 
   if (bip39.validateMnemonic(repeatedWord)) {
-    console.log(`${repeatedWord}`);
+    console.log(`- ${repeatedWord}`);
   }
 }
